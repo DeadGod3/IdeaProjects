@@ -38,6 +38,8 @@ public class Rugby {
         System.out.println("Среднее арифметическое 2 команды = " + average2);
 
 
+//        any changes
+//                   here i type
     }
 }
 
